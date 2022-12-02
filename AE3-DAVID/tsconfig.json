@@ -18,6 +18,7 @@
     "importHelpers": true,
     "target": "es6",
     "module": "es2020",
+    "strictPropertyInitialization": false,
     "lib": [
       "es2020",
       "dom"
